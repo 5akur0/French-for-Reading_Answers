@@ -1,2 +1,3 @@
 # French-for-Reading_Answers
-My Answers for Exercises in the book
+My answers for Exercises in the book.
+Enjoy the book~
